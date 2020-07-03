@@ -1,0 +1,20 @@
+2020-07-02 21:11:51,095 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-02 21:11:51,096 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/samihabdeljabbar/opt/anaconda3/envs/fluffy/lib/python3.8/site-packages/instabot/bot/bot.py
+2020-07-02 21:11:51,099 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-02 21:11:51,100 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-02 21:11:51,100 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /Users/samihabdeljabbar/Desktop/NEW/config/aladdins_carpet_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=92419107-29d2-4785-a777-044b4cf61c86
+- uuid=e21069b5-644d-4852-b495-4593403287ba
+- client_session_id=bea77e41-6359-4eaf-9493-1d59b9bc49a3
+- device_id=android-1e4011bdd2aafee7
+2020-07-02 21:11:51,100 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-02 21:11:53,666 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-02 21:11:55,811 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-02 21:11:55,824 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'aladdins_carpet'!
+2020-07-02 21:11:55,825 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/samihabdeljabbar/Desktop/NEW/config/aladdins_carpet.checkpoint
+2020-07-02 21:12:19,772 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-07-02 21:12:21,306 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-07-02 21:12:21,315 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'stars.jpg' is uploaded.
+2020-07-02 21:12:21,874 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/samihabdeljabbar/Desktop/NEW/config/aladdins_carpet.checkpoint
+2020-07-02 21:12:21,882 - instabot version: 0.117.0 (bot) - INFO - Total requests: 33
